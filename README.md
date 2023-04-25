@@ -9,7 +9,7 @@ Puedes optar por no mostrar los logros en su perfil yendo a su [configuración d
 | Insignia | Nombre | Como llegar |
 | :---: | --- | --- |
 | ![Insignia de logro Corazón en la manga](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | **Heart On Your Sleeve** | ??? |
-| ![Insignia de logro Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | **Open Sourcerer** | ??? |
+| ![Insignia de logro Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | **Open Sourcerer** | Crea un repositorio de código abierto en GitHub, agrega código, realiza cambios, publica y comparte el enlace para obtener el logro "Open Sourcerer". |
 | ![Insignia de logro Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | **Starstruck** | Crear un repositorio y obtener **16 estrellas** o [más](#Badge-tiers). |
 | ![Insignia de logro Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png) | **Quickdraw** | Cerrar un ticket o una solicitud de integración (PR) dentro de los 5 minutos posteriores a la apertura. |
 | ![Insignia de logro Par extraordinario](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png) | **Pair Extraordinaire** | Ser co-autor en una solicitud de integración fusionada **dos** o [más](#Badge-tiers). |
